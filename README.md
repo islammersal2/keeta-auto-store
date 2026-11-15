@@ -1,0 +1,1 @@
+# keeta-auto-store
